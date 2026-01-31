@@ -349,5 +349,5 @@
 	RequestCommand:InvokeServer(";r6 all")
 	RequestCommand:InvokeServer(";time 14")
 	wait(0.7)
-	RequestCommand:InvokeServer(";music 1847661821 ;volume inf ;savemap ;pitch 1 ;disco ;hint get realmed by XVOID! ;message get realmed by XVOID!")
+	RequestCommand:InvokeServer(";music 1847661821 ;volume inf ;savemap ;pitch 1 ;disco ;hint get realmed by XVOID! ;message get realmed by XVOID! ;ff all ;fire all ;takethel all ;wormify all")
 	
